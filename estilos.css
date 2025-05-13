@@ -1,0 +1,51 @@
+/* Título principal con ID */
+#titulo-principal {
+    color: rgb(26, 31, 26);
+    text-align: center;
+    font-family: 'Verdana', sans-serif;
+    font-size: 32px;
+}
+
+/* Nombre del juego con clase */
+.nombre-juego {
+    color: rgb(27, 29, 165);
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Descripciones */
+.descripcion {
+    background-color: #2479c4;
+    padding: 15px;
+    font-size: 16px;
+    border-left: 4px solid #2a81c9;
+    margin: 10px;
+}
+
+/* Subtítulo */
+.subtitulo {
+    font-size: 20px;
+    color: #000000;
+    margin-top: 30px;
+}
+
+/* Lista */
+ul {
+    background-color: #226c97;
+    padding: 10px;
+    border: 2px dashed #d30505;
+}
+
+/* Firma */
+.firma {
+    text-align: right;
+    font-style: italic;
+    color: #555;
+    font-size: 14px;
+}
+
+.imagen {
+    height: 50%;
+    max-height: 50%;
+}
